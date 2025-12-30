@@ -18,7 +18,7 @@ This repository documents my progression through the Game Software Engineering m
 * **Purpose:** Initial technical exploration of the SFML library.
 * **Logic:** Foundational prototypes focused on the render loop, real-time event polling, and basic sprite transformation.
 
-### 2. 02-Snake-System
+### 2. 02-Snake-Game
 A high-level implementation of Snake engineered to demonstrate architectural design patterns.
 * **Custom Doubly Linked List:** Engineered a bespoke Linked List from scratch to manage snake segment growth and coordinate movement, demonstrating low-level data structure implementation without relying on standard library containers.
 * **State-Based AI Behaviour:** Developed an automated AI snake utilizing cardinal state validation and pathing logic to navigate the board and collect items.
